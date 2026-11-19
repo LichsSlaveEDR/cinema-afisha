@@ -1,0 +1,27 @@
+[
+    {"film": "gg", 
+    "price": 547,
+    "hall": "Красный",
+    "time": "13:00"
+},
+    {"film": "dsds", 
+    "price": 56,
+    "hall": "Красный",
+    "time": "12:00"
+},
+    {"film": "as", 
+    "price": 1000,
+    "hall": "Синий",
+    "time": "17:45"
+},
+    {"film": "JDFFA", 
+    "price": 2000,
+    "hall": "Красный",
+    "time": "01:00"
+},
+    {"film": "FFFFF", 
+    "price": 1,
+    "hall": "Синий",
+    "time": "14:01"
+}
+]
